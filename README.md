@@ -1,3 +1,3 @@
-#css #responsive #flex #navbar
+### Responsive navbar structure
 
-Flexbox responsive navbar practice.
+# https://osman-ordu.github.io/Navbar-flexbox/
